@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4455
+
+This simple plugin provides a :Rbenv command that wraps !rbenv with tab complete.  It also tells recent versions of https://github.com/vim-ruby/vim-ruby where your Ruby installs are located, so that it can set 'path' and 'tags' in your Ruby buffers to reflect the nearest .ruby-version file.
+
+https://github.com/tpope/vim-rbenv
